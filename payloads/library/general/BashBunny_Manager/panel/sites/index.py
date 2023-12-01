@@ -70,8 +70,7 @@ class index:
 
         d = os.path.join('..', '..', 'library')
         categories = [f for f in os.listdir(d)  if os.path.isdir(os.path.join(d, f))]
-        i = 0
-        for category in categories:
+        for i, category in enumerate(categories):
             ret += '''
             <div class="card">
                 <div class="card-header" id="heading{0}">
@@ -88,8 +87,6 @@ class index:
                     </div>
                 </div>
             </div>'''.format(i, category.replace('_', ' '), self.generateTable(category), self.containsArmed(category))
-            i += 1
-
         ret += '</div>'
         return ret
     

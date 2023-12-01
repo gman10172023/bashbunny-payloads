@@ -5,7 +5,7 @@ ansiDict = {}
 def getDict(SWITCH_POSITION):
 	#read ansiDict.txt file to get the bytes for the widows altcodes (ascii 128-255)
 	altcode = 0
-	with open('/root/udisk/payloads/'+SWITCH_POSITION+'/ansiDict.txt', 'rb') as f:
+	with open(f'/root/udisk/payloads/{SWITCH_POSITION}/ansiDict.txt', 'rb') as f:
 		for line in f:
 			line = str(binascii.hexlify(line))
 			while line.endswith('0a') or line.endswith('0d'):

